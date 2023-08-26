@@ -1,0 +1,21 @@
+.cards {
+    display: flex;
+    gap: 64px;
+    margin-left: 48px;
+    margin-right: 48px;
+    justify-content: space-between;
+}
+
+.image__card {
+    width: 120px;
+
+}
+
+@media (max-width:600px) {
+    .cards {
+        display: grid;
+        justify-content: space-between;
+       
+    }
+
+}

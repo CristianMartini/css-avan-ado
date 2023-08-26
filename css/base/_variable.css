@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,500;0,700;1,500&family=Roboto:ital,wght@0,300;0,500;0,700;1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Noto+Sans:ital,wght@0,300;0,400;0,500;0,700;1,500&family=Roboto:ital,wght@0,300;0,500;0,700;1,300&display=swap');
+
+
+:root{
+    --font-noto-sans: "Noto Sans";
+    --font-caprasimo: "Caprasimo";
+    --txt-large:32px;
+    --txt-mediunm:24px;
+    --txt-small:16px;
+    --color-white: white;
+    --color-black: black;
+    --color-brown: #41220c;
+    /*usar regra do multiplo de 8 */
+}
